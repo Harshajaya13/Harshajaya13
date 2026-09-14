@@ -1,6 +1,6 @@
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', sans-serif;">
 
-> *"The journey of creating a masterpiece is never linear enough to explain its outcomes in a short period of time."*  
+> *"The journey of creating a masterpiece is never linear enough to explain its outcome in a short period of time."*  
 <p align="right"><sub>— <b>Harsha Vardhan</b></sub></p>
 
 ---
