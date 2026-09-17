@@ -52,7 +52,7 @@ Tools and experiments created to solve real problems and explore practical AI:
 
 ## ✍️ Writings & Mini-Theses
 
-> 📓 *My essays, seminars, and mini-theses live inside a personal knowledge vault spanning **1.7M+ tokens (~1.3M words)**. Curating and publishing public links as time permits!*
+> 📓 *My essays, seminars, and mini-theses live inside a continuously growing personal knowledge vault (currently **1.7M+ tokens / ~1.3M words** and expanding). Curating and publishing public links as time permits!*
 
 * 🧠 **The Subconscious Mind** — *Seminar & notes on pre-conscious thought processing.*
 * 📜 **Philosophy & Self-Reflections** — *Ancient Indian philosophy applied to modern lifestyle.*
@@ -60,12 +60,11 @@ Tools and experiments created to solve real problems and explore practical AI:
 
 ---
 
-## 🧠 Non-Academic Interests
+## 🧠 Core Research Areas
 
-* 🎭 **Psychology**: How humans perceive and process emotions.
-* 🧠 **Neuroscience**: Brain architecture & thought processing beneath conscious awareness.
-* 📜 **Philosophy**: Self-reflections & ancient Indian philosophy.
-
+* 🎭 **Psychology (~80% of Vault)**: Deeply rooted exploration into human emotion processing, mental architectures, and cognitive behaviors.
+* 📜 **Philosophy (~15% of Vault)**: Self-reflections & ancient Indian philosophy applied to modern decision-making and clarity.
+* 🧠 **Neuroscience (~5% of Vault)**: Brain architecture & thought processing beneath conscious awareness *(authored an extensive 32-page research document)*.
 ---
 
 ## 📫 Connect
